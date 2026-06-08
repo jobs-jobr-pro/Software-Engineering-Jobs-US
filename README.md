@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Metriport](https://metriport.com)** | **[Software Engineer](https://jobr.pro/job/41070161/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 08 |
+| **[Cribl](https://cribl.io)** | **[Staff Software Engineer, Cribl AI](https://jobr.pro/job/41070229/staff-software-engineer-cribl-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Remote - United States | Remote | Jun 07 |
 | **[Clera](https://www.getclera.com)** | **[Senior Software Engineer](https://jobr.pro/job/41069004/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
 | **[Clera](https://www.getclera.com)** | **[Software Engineer - Full Stack](https://jobr.pro/job/41069012/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
 | **[Clera](https://www.getclera.com)** | **[Senior iOS/Android Software Engineer](https://jobr.pro/job/41069013/senior-iosandroid-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
@@ -61,15 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sierra](https://sierra.ai/)** | **[Software Engineer, Agent Data Platform](https://jobr.pro/job/41058793/software-engineer-agent-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, CA | On Site | Jun 05 |
 | **[SpaceX](https://spacex.com)** | **[Security Software Engineer (Starlink)](https://jobr.pro/job/41055523/security-software-engineer-starlink?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Hawthorne, CA | On Site | Jun 05 |
 | **[Apex](https://www.apexspace.com/)** | **[Software Engineer, Engineering Systems](https://jobr.pro/job/41064056/software-engineer-engineering-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Los Angeles | On Site | Jun 05 |
-| **[Telnyx](https://telnyx.com)** | **[Software Engineer, GTM AI - Python](https://jobr.pro/job/41057672/software-engineer-gtm-ai-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | United States; Brazil; Canada | On Site | Jun 05 |
-| **[Designworks Talent](https://www.designworkstalent.com/)** | **[Staff Software Engineer (Full-Stack)](https://jobr.pro/job/41064036/staff-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | USA | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 35 companies | Avg salary: 1.1428578142868715e+204k  
+**Current Stats:** 50 jobs | 18% remote | 35 companies | Avg salary: 4.324331486497298e+215k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, ai  
+**Trending Skills:** ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
