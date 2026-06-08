@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -15,11 +15,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Metriport](https://metriport.com)** | **[Software Engineer](https://jobr.pro/job/41070161/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 08 |
 | **[Cribl](https://cribl.io)** | **[Staff Software Engineer, Cribl AI](https://jobr.pro/job/41070229/staff-software-engineer-cribl-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Remote - United States | Remote | Jun 07 |
-| **[Clera](https://www.getclera.com)** | **[Senior Software Engineer](https://jobr.pro/job/41069004/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
-| **[Clera](https://www.getclera.com)** | **[Software Engineer - Full Stack](https://jobr.pro/job/41069012/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
-| **[Clera](https://www.getclera.com)** | **[Senior iOS/Android Software Engineer](https://jobr.pro/job/41069013/senior-iosandroid-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
-| **[Clera](https://www.getclera.com)** | **[Senior/Staff Software Engineer (Platform)](https://jobr.pro/job/41069007/seniorstaff-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
-| **[Clera](https://www.getclera.com)** | **[Product Engineer (Software Engineer)](https://jobr.pro/job/41069014/product-engineer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
+| **[Clera](https://www.getclera.com)** | **[Senior Software Engineer](https://jobr.pro/job/41070591/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
+| **[Clera](https://www.getclera.com)** | **[Software Engineer - Full Stack](https://jobr.pro/job/41070599/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
+| **[Clera](https://www.getclera.com)** | **[Senior iOS/Android Software Engineer](https://jobr.pro/job/41070600/senior-iosandroid-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
+| **[Clera](https://www.getclera.com)** | **[Senior/Staff Software Engineer (Platform)](https://jobr.pro/job/41070594/seniorstaff-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
+| **[Clera](https://www.getclera.com)** | **[Product Engineer (Software Engineer)](https://jobr.pro/job/41070601/product-engineer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
 | **[Aurelius Systems](https://aureliussystems.com)** | **[Sr. Robotics Software Engineer](https://jobr.pro/job/41067668/sr-robotics-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 06 |
 | **[Nimble Robotics](https://nimble.ai)** | **[Senior Software Engineer, Embedded Linux](https://jobr.pro/job/41066616/senior-software-engineer-embedded-linux?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, CA | On Site | Jun 06 |
 | **[Perplexity AI](https://www.perplexity.com)** | **[Member of Technical Staff (AI Software Engineer, Multimodal)](https://jobr.pro/job/41062951/member-of-technical-staff-ai-software-engineer-multimodal?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 06 |
