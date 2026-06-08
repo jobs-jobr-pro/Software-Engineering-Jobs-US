@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Clera](https://www.getclera.com)** | **[Senior Software Engineer](https://jobr.pro/job/41069004/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
+| **[Clera](https://www.getclera.com)** | **[Software Engineer - Full Stack](https://jobr.pro/job/41069012/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
+| **[Clera](https://www.getclera.com)** | **[Senior iOS/Android Software Engineer](https://jobr.pro/job/41069013/senior-iosandroid-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
+| **[Clera](https://www.getclera.com)** | **[Senior/Staff Software Engineer (Platform)](https://jobr.pro/job/41069007/seniorstaff-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
+| **[Clera](https://www.getclera.com)** | **[Product Engineer (Software Engineer)](https://jobr.pro/job/41069014/product-engineer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 07 |
 | **[Aurelius Systems](https://aureliussystems.com)** | **[Sr. Robotics Software Engineer](https://jobr.pro/job/41067668/sr-robotics-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 06 |
 | **[Nimble Robotics](https://nimble.ai)** | **[Senior Software Engineer, Embedded Linux](https://jobr.pro/job/41066616/senior-software-engineer-embedded-linux?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, CA | On Site | Jun 06 |
 | **[Perplexity AI](https://www.perplexity.com)** | **[Member of Technical Staff (AI Software Engineer, Multimodal)](https://jobr.pro/job/41062951/member-of-technical-staff-ai-software-engineer-multimodal?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 06 |
@@ -22,7 +27,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Clera](https://www.getclera.com)** | **[Senior Software Engineer, Distributed Data Systems](https://jobr.pro/job/41063256/senior-software-engineer-distributed-data-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 06 |
 | **[Clera](https://www.getclera.com)** | **[Founding Software Engineer](https://jobr.pro/job/41063254/founding-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 06 |
 | **[Waymo](https://waymo.com)** | **[Senior Software Engineer, Perception Future Sensing Platforms](https://jobr.pro/job/41061777/senior-software-engineer-perception-future-sensing-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Mountain View, CA, USA; San Francisco, CA, USA | On Site | Jun 06 |
-| **[Clera](https://www.getclera.com)** | **[Senior Software Engineer](https://jobr.pro/job/41063253/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 06 |
 | **[SpaceX](https://spacex.com)** | **[Software Engineer, Propulsion Simulation & Data Analysis](https://jobr.pro/job/41060401/software-engineer-propulsion-simulation-data-analysis?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Hawthorne, CA | On Site | Jun 06 |
 | **[SpaceX](https://spacex.com)** | **[Sr. Software Engineer, Propulsion Simulation & Data Analysis (Raptor)](https://jobr.pro/job/41060407/sr-software-engineer-propulsion-simulation-data-analysis-raptor?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Hawthorne, CA | On Site | Jun 06 |
 | **[The People Group](https://www.hibyron.com)** | **[Executive Assistant to the CEO - Software Engineering Company - Remote](https://jobr.pro/job/41062857/executive-assistant-to-the-ceo-software-engineering-company-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Virginia, United States | Remote | Jun 06 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Apex](https://www.apexspace.com/)** | **[Software Engineer, Engineering Systems](https://jobr.pro/job/41064056/software-engineer-engineering-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Los Angeles | On Site | Jun 05 |
 | **[Telnyx](https://telnyx.com)** | **[Software Engineer, GTM AI - Python](https://jobr.pro/job/41057672/software-engineer-gtm-ai-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | United States; Brazil; Canada | On Site | Jun 05 |
 | **[Designworks Talent](https://www.designworkstalent.com/)** | **[Staff Software Engineer (Full-Stack)](https://jobr.pro/job/41064036/staff-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | USA | Remote | Jun 05 |
-| **[Fireworks AI](https://fireworks.ai)** | **[Member of Technical Staff- Full Stack Software Engineer](https://jobr.pro/job/41058591/member-of-technical-staff-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Mateo, CA | On Site | Jun 05 |
-| **[Zydro Marine Technologies](https://zydromarine.com/)** | **[Geospatial Software Engineer](https://jobr.pro/job/41062054/geospatial-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Newton, MA | On Site | Jun 05 |
-| **[Freeform](https://www.freeformspaces.com/)** | **[Senior Software Engineer (Geometry Processing)](https://jobr.pro/job/41064696/senior-software-engineer-geometry-processing?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Los Angeles, CA (On-site) | On Site | Jun 05 |
-| **[Varda Space Industries](https://varda.com)** | **[Spacecraft Ground Support Equipment Software Engineer](https://jobr.pro/job/41055863/spacecraft-ground-support-equipment-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | El Segundo, California, United States | On Site | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 39 companies | Avg salary: 6.351362297308244e+215k  
+**Current Stats:** 50 jobs | 18% remote | 35 companies | Avg salary: 1.1428578142868715e+204k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, ai  
