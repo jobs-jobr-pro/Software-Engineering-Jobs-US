@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -19,7 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Perplexity AI](https://www.perplexity.com)** | **[Member of Technical Staff (Software Engineer, Capabilities)](https://jobr.pro/job/41182434/member-of-technical-staff-software-engineer-capabilities?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | Remote | Jun 12 |
 | **[APCON](https://apcon.com)** | **[Software Engineer - GUI Developer](https://jobr.pro/job/41180690/software-engineer-gui-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Plano, Texas | On Site | Jun 12 |
 | **[Intuitive](https://www.intuitive.com)** | **[Staff Platform Software Engineer](https://jobr.pro/job/41181578/staff-platform-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Sunnyvale, CA, United States | On Site | Jun 12 |
-| **[Antares](http://antaresindustries.com)** | **[Software Engineer, R&D Platforms](https://jobr.pro/job/41181368/software-engineer-rd-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Los Angeles | On Site | Jun 12 |
+| **[Antares](http://antaresindustries.com)** | **[Software Engineer, R&D Platforms](https://jobr.pro/job/41184398/software-engineer-rd-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Los Angeles | On Site | Jun 12 |
 | **[Reddit](https://redditinc.com)** | **[Software Engineer - Data Movement Platform](https://jobr.pro/job/41181172/software-engineer-data-movement-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Remote - United States | Remote | Jun 12 |
 | **[Reddit](https://redditinc.com)** | **[Staff Software Engineer - Content Platform](https://jobr.pro/job/41181173/staff-software-engineer-content-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Remote - United States | Remote | Jun 12 |
 | **[Cascade AI](http://www.cascorp.com)** | **[Senior Backend Software Engineer](https://jobr.pro/job/41183071/senior-backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Bellevue | Remote | Jun 12 |
