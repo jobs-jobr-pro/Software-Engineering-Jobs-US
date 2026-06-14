@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DevIQ](https://deviq.com)** | **[Lead AI-Native Software Engineer](https://jobr.pro/job/41187715/lead-ai-native-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Denver, CO, United States | Remote | Jun 13 |
 | **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer (Sustaining Automation)](https://jobr.pro/job/41186927/senior-software-engineer-sustaining-automation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Canada - Remote; Europe - Remote; United States - Remote | Remote | Jun 13 |
 | **[RZR Global Inc.](https://rzr.com)** | **[Senior Software Engineer (Backend)](https://jobr.pro/job/41183125/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, CA | On Site | Jun 13 |
 | **[Faro Health Inc.](https://farohealth.com)** | **[Software Engineer Full Stack](https://jobr.pro/job/41183024/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Diego, California, United States | On Site | Jun 13 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Versant](https://versanthealth.com)** | **[Sr. Software Engineer, IOS - Fandango at Home](https://jobr.pro/job/41176181/sr-software-engineer-ios-fandango-at-home?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Orlando, FL, United States | Remote | Jun 12 |
 | **[Versant](https://versanthealth.com)** | **[Sr. Software Engineer - GolfNow](https://jobr.pro/job/41176191/sr-software-engineer-golfnow?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Orlando, FL, United States | Remote | Jun 12 |
 | **[Versant](https://versanthealth.com)** | **[Manager, Software Engineering](https://jobr.pro/job/41176200/manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Englewood Cliffs, NEW JERSEY, United States | Remote | Jun 12 |
-| **[Versant](https://versanthealth.com)** | **[Senior Software Engineer, Payments/Fintech](https://jobr.pro/job/41176203/senior-software-engineer-paymentsfintech?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Englewood Cliffs, NEW JERSEY, United States | On Site | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 32 companies | Avg salary: 5.4117695588354414e+197k  
+**Current Stats:** 50 jobs | 36% remote | 33 companies | Avg salary: 5.0000052571475714e+203k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
