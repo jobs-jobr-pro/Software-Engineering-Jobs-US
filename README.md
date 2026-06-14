@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -13,9 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Cynch AI](https://www.cynch.ai)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/41188584/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, California, United States | On Site | Jun 14 |
+| **[Instead](https://insteading.com)** | **[Software Engineering Intern](https://jobr.pro/job/41188292/software-engineering-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 13 |
+| **[Instead](https://insteading.com)** | **[Software Engineer](https://jobr.pro/job/41188291/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 13 |
 | **[DevIQ](https://deviq.com)** | **[Lead AI-Native Software Engineer](https://jobr.pro/job/41187715/lead-ai-native-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Denver, CO, United States | Remote | Jun 13 |
+| **[Nimble Robotics](https://nimble.ai)** | **[Software Engineer III, Robotics Throughput](https://jobr.pro/job/41188204/software-engineer-iii-robotics-throughput?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, CA | On Site | Jun 13 |
 | **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer (Sustaining Automation)](https://jobr.pro/job/41186927/senior-software-engineer-sustaining-automation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Canada - Remote; Europe - Remote; United States - Remote | Remote | Jun 13 |
 | **[RZR Global Inc.](https://rzr.com)** | **[Senior Software Engineer (Backend)](https://jobr.pro/job/41183125/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, CA | On Site | Jun 13 |
+| **[ProNexus](http://pronexus.ai)** | **[Senior Software Engineer](https://jobr.pro/job/41189139/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | United States | Remote | Jun 13 |
 | **[Faro Health Inc.](https://farohealth.com)** | **[Software Engineer Full Stack](https://jobr.pro/job/41183024/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Diego, California, United States | On Site | Jun 13 |
 | **[Intuitive](https://www.intuitive.com)** | **[Sr. Software Test Engineer](https://jobr.pro/job/41181577/sr-software-test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Sunnyvale, CA, United States | On Site | Jun 12 |
 | **[Perplexity AI](https://www.perplexity.com)** | **[Member of Technical Staff (Software Engineer, Capabilities)](https://jobr.pro/job/41182434/member-of-technical-staff-software-engineer-capabilities?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | Remote | Jun 12 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Inversion](https://inversionspace.com)** | **[Senior Embedded Software Engineer](https://jobr.pro/job/41180156/senior-embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Playa Vista, California, United States | On Site | Jun 12 |
 | **[Inversion](https://inversionspace.com)** | **[Staff Flight Software Engineer, Arc Vehicle](https://jobr.pro/job/41180160/staff-flight-software-engineer-arc-vehicle?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Playa Vista, California, United States | On Site | Jun 12 |
 | **[OpenAI](https://openai.com)** | **[Software Engineer, Computer Use & Frontier Interfaces](https://jobr.pro/job/41179124/software-engineer-computer-use-frontier-interfaces?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | Remote | Jun 12 |
-| **[Versant](https://versanthealth.com)** | **[Manager, Software Engineering (Back End & Integrations) - Fandango](https://jobr.pro/job/41176153/manager-software-engineering-back-end-integrations-fandango?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Orlando, FL, United States | Remote | Jun 12 |
-| **[Versant](https://versanthealth.com)** | **[Senior Software Engineer](https://jobr.pro/job/41176165/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Orlando, FL, United States | Remote | Jun 12 |
-| **[Versant](https://versanthealth.com)** | **[Sr. Software Engineer, IOS - Fandango at Home](https://jobr.pro/job/41176181/sr-software-engineer-ios-fandango-at-home?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Orlando, FL, United States | Remote | Jun 12 |
-| **[Versant](https://versanthealth.com)** | **[Sr. Software Engineer - GolfNow](https://jobr.pro/job/41176191/sr-software-engineer-golfnow?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Orlando, FL, United States | Remote | Jun 12 |
-| **[Versant](https://versanthealth.com)** | **[Manager, Software Engineering](https://jobr.pro/job/41176200/manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Englewood Cliffs, NEW JERSEY, United States | Remote | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 33 companies | Avg salary: 5.0000052571475714e+203k  
+**Current Stats:** 50 jobs | 28% remote | 36 companies | Avg salary: 6.486491216221893e+215k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
