@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Exa Labs](https://exa.ai)** | **[Software Engineer, Knowledge Systems](https://jobr.pro/job/41193314/software-engineer-knowledge-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, California | On Site | Jun 14 |
 | **[Cynch AI](https://www.cynch.ai)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/41188584/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, California, United States | On Site | Jun 14 |
 | **[Instead](https://insteading.com)** | **[Software Engineering Intern](https://jobr.pro/job/41188292/software-engineering-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 13 |
 | **[Instead](https://insteading.com)** | **[Software Engineer](https://jobr.pro/job/41188291/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 13 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Inversion](https://inversionspace.com)** | **[Engineering Manager, Arc Vehicle Software](https://jobr.pro/job/41180152/engineering-manager-arc-vehicle-software?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Playa Vista, California, United States | On Site | Jun 12 |
 | **[Inversion](https://inversionspace.com)** | **[Senior Embedded Software Engineer](https://jobr.pro/job/41180156/senior-embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Playa Vista, California, United States | On Site | Jun 12 |
 | **[Inversion](https://inversionspace.com)** | **[Staff Flight Software Engineer, Arc Vehicle](https://jobr.pro/job/41180160/staff-flight-software-engineer-arc-vehicle?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Playa Vista, California, United States | On Site | Jun 12 |
-| **[OpenAI](https://openai.com)** | **[Software Engineer, Computer Use & Frontier Interfaces](https://jobr.pro/job/41179124/software-engineer-computer-use-frontier-interfaces?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | Remote | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 36 companies | Avg salary: 6.486491216221893e+215k  
+**Current Stats:** 50 jobs | 26% remote | 36 companies | Avg salary: 9.459465945950677e+215k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
