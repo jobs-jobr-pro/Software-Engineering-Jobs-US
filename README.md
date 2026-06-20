@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 20, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 20, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TensorWave](https://tensorwave.com)** | **[Software Engineer, Front End](https://jobr.pro/job/41302027/software-engineer-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Las Vegas, Nevada | Remote | Jun 20 |
 | **[Cerebras Systems](https://cerebras.net)** | **[Software Engineer, Inference Platform](https://jobr.pro/job/41297610/software-engineer-inference-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Sunnyvale, CA | On Site | Jun 20 |
 | **[iHerb](https://ar.iherb.com)** | **[Sr. Software Engineer II - Catalog](https://jobr.pro/job/41297544/sr-software-engineer-ii-catalog?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | United States of America - Remote / Home Office | Remote | Jun 20 |
 | **[iHerb](https://ar.iherb.com)** | **[Sr. Software Engineer II - AI](https://jobr.pro/job/41297543/sr-software-engineer-ii-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | United States of America - Remote / Home Office | Remote | Jun 20 |
@@ -27,6 +28,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Heartflow](https://heartflow.com)** | **[Senior Software Engineer - Frontend](https://jobr.pro/job/41295146/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, California | On Site | Jun 19 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Space Special Projects, Software Engineer](https://jobr.pro/job/41294866/space-special-projects-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Reston, Virginia, United States | On Site | Jun 19 |
 | **[Strategic HR Client Job Openings](https://strategichr.com)** | **[Software Robotics Design Engineer](https://jobr.pro/job/41298453/software-robotics-design-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Boston, Massachusetts | On Site | Jun 19 |
+| **[MetTel](https://mettel.net)** | **[Senior Software Engineer - Bruin Platform Full Stack](https://jobr.pro/job/41301803/senior-software-engineer-bruin-platform-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | New York, New York, United States | On Site | Jun 19 |
 | **[ALTEN Technology USA](https://www.alten.com)** | **[Embedded Software Engineer](https://jobr.pro/job/41293270/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Lafayette, CO | On Site | Jun 19 |
 | **[Peak Energy](https://peakenergy.com)** | **[Manufacturing Software Engineer](https://jobr.pro/job/41289923/manufacturing-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Burlingame, California | On Site | Jun 19 |
 | **[Foresite Labs (Stealth Co)](https://www.foresitelabs.com)** | **[Senior Software Engineer](https://jobr.pro/job/41294210/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Diego | On Site | Jun 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LVT](https://lvt.com)** | **[Senior Software Engineer II, Applied AI](https://jobr.pro/job/41277552/senior-software-engineer-ii-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Seattle, Washington, United States | On Site | Jun 18 |
 | **[LVT](https://lvt.com)** | **[Senior Software Engineer II, Agentic AI Platform](https://jobr.pro/job/41277551/senior-software-engineer-ii-agentic-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Seattle, Washington, United States | On Site | Jun 18 |
 | **[Archer](https://adm.com)** | **[Software Engineer, Fullstack](https://jobr.pro/job/41274989/software-engineer-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Jose, California, United States | On Site | Jun 18 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Senior Director, Software Product Management and Product Engineering](https://jobr.pro/job/41275890/senior-director-software-product-management-and-product-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Menlo Park, CA | On Site | Jun 18 |
-| **[LinkedIn](https://www.linkedin.com)** | **[Staff Software Engineer](https://jobr.pro/job/41269586/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Mountain View, CA, United States | Remote | Jun 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 35 companies | Avg salary: 5.8750058750059995e+234k  
+**Current Stats:** 50 jobs | 18% remote | 35 companies | Avg salary: 6.025647051288205e+228k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, ai  
