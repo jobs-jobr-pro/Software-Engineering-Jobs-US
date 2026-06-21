@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 21, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Varda Space Industries](https://varda.com)** | **[Senior Automation and Controls Software Engineer](https://jobr.pro/job/41304976/senior-automation-and-controls-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | El Segundo, California, United States | On Site | Jun 20 |
 | **[Vercel](https://vercel.com)** | **[Software Engineer, Eve](https://jobr.pro/job/41304701/software-engineer-eve?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Hybrid - San Francisco, New York City | On Site | Jun 20 |
 | **[TensorWave](https://tensorwave.com)** | **[Software Engineer, Front End](https://jobr.pro/job/41302027/software-engineer-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Las Vegas, Nevada | Remote | Jun 20 |
 | **[Cerebras Systems](https://cerebras.net)** | **[Software Engineer, Inference Platform](https://jobr.pro/job/41297610/software-engineer-inference-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Sunnyvale, CA | On Site | Jun 20 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Roblox](https://careers.roblox.com)** | **[Senior Software Engineer - NPC Behavior](https://jobr.pro/job/41271580/senior-software-engineer-npc-behavior?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Mateo, CA, United States | On Site | Jun 18 |
 | **[Clera](https://www.getclera.com)** | **[Founding Software Engineer](https://jobr.pro/job/41280036/founding-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 18 |
 | **[LVT](https://lvt.com)** | **[Senior Software Engineer II, Applied AI](https://jobr.pro/job/41277552/senior-software-engineer-ii-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Seattle, Washington, United States | On Site | Jun 18 |
-| **[LVT](https://lvt.com)** | **[Senior Software Engineer II, Agentic AI Platform](https://jobr.pro/job/41277551/senior-software-engineer-ii-agentic-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Seattle, Washington, United States | On Site | Jun 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 35 companies | Avg salary: 8.000006025647052e+228k  
+**Current Stats:** 50 jobs | 18% remote | 36 companies | Avg salary: 8.210532500006185e+222k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, ai  
