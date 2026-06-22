@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SpaceX](https://spacex.com)** | **[Sr. Software Engineer, C++ (Dragon)](https://jobr.pro/job/41309967/sr-software-engineer-c-dragon?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Hawthorne, CA | On Site | Jun 21 |
+| **[SpaceX](https://spacex.com)** | **[Software Engineer, C++ (Dragon)](https://jobr.pro/job/41309966/software-engineer-c-dragon?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Hawthorne, CA | On Site | Jun 21 |
 | **[Atom Computing](https://atom-computing.com)** | **[Senior Software Engineer](https://jobr.pro/job/41306815/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Boulder, CO | On Site | Jun 21 |
 | **[Atom Computing](https://atom-computing.com)** | **[Principal Software Engineer](https://jobr.pro/job/41306814/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Boulder, CO | On Site | Jun 21 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Automation and Controls Software Engineer](https://jobr.pro/job/41304976/senior-automation-and-controls-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | El Segundo, California, United States | On Site | Jun 20 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Gusto, Inc.](https://sushiwithgusto.com)** | **[Staff Software Engineer, Growth (Revenue Enablement)](https://jobr.pro/job/41277825/staff-software-engineer-growth-revenue-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, CA | On Site | Jun 18 |
 | **[SpaceX](https://spacex.com)** | **[Software Engineer, PCBA (Starlink)](https://jobr.pro/job/41271103/software-engineer-pcba-starlink?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Redmond, WA | On Site | Jun 18 |
 | **[Roblox](https://careers.roblox.com)** | **[Senior Security Software Engineer, IAM](https://jobr.pro/job/41271579/senior-security-software-engineer-iam?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Mateo, CA, United States | On Site | Jun 18 |
-| **[SpaceX](https://spacex.com)** | **[Software Engineer, High Assurance Test (Starshield)](https://jobr.pro/job/41271102/software-engineer-high-assurance-test-starshield?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Hawthorne, CA | On Site | Jun 18 |
-| **[Roblox](https://careers.roblox.com)** | **[Senior Software Engineer - NPC Behavior](https://jobr.pro/job/41271580/senior-software-engineer-npc-behavior?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Mateo, CA, United States | On Site | Jun 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 35 companies | Avg salary: 4.868426842113474e+222k  
+**Current Stats:** 50 jobs | 18% remote | 35 companies | Avg salary: 6.052636184215395e+222k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, ai  
