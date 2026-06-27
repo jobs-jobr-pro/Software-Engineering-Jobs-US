@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -22,8 +22,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SpaceX](https://spacex.com)** | **[Sr. Application Software Engineer](https://jobr.pro/job/41439737/sr-application-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Starbase, TX | On Site | Jun 26 |
 | **[SpaceX](https://spacex.com)** | **[Full Stack Software Engineer (Starshield)](https://jobr.pro/job/41439732/full-stack-software-engineer-starshield?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Hawthorne, CA | On Site | Jun 26 |
 | **[SpaceX](https://spacex.com)** | **[Sr. Site Reliability Engineer (Application Software)](https://jobr.pro/job/41439738/sr-site-reliability-engineer-application-software?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Hawthorne, CA | On Site | Jun 26 |
+| **[Odin Dynamics, Inc](https://odindynamics.ai)** | **[Senior Embedded Software Engineer (Maritime)](https://jobr.pro/job/41446117/senior-embedded-software-engineer-maritime?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Los Angeles | On Site | Jun 26 |
 | **[Watershed](https://watershed.com)** | **[Staff software engineer, AI product](https://jobr.pro/job/41442267/staff-software-engineer-ai-product?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Denver | Remote | Jun 26 |
 | **[GHX](https://www.ghx.com)** | **[Senior Software Engineer - Java, Angular, AWS](https://jobr.pro/job/41442136/senior-software-engineer-java-angular-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Office Location or Remote - USA | Remote | Jun 26 |
+| **[Material Security](https://material.security)** | **[Sr Software Engineer II](https://jobr.pro/job/41445083/sr-software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco Office | Remote | Jun 26 |
 | **[Reddit](https://www.reddit.com)** | **[Staff Software Engineer, Identity & Access Management](https://jobr.pro/job/41438291/staff-software-engineer-identity-access-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Remote - United States | Remote | Jun 26 |
 | **[BambooHR](https://bamboohr.com)** | **[Staff Software Engineer](https://jobr.pro/job/41437675/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Utah \| Remote | Remote | Jun 26 |
 | **[CTGT](https://ctgt.ai)** | **[Software Engineering Intern (Summer 2027)](https://jobr.pro/job/41438595/software-engineering-intern-summer-2027?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 26 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cohere Health](https://coherehealth.com)** | **[Software Engineer ll, Data Platform](https://jobr.pro/job/41430972/software-engineer-ll-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | United States | On Site | Jun 26 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Associate Software Engineer, Core Infrastructure - Moveworks](https://jobr.pro/job/41430249/associate-software-engineer-core-infrastructure-moveworks?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Mountain View, CALIFORNIA, United States | On Site | Jun 26 |
 | **[Versant](https://versanthealth.com)** | **[Software Engineer (Platform Engineering)](https://jobr.pro/job/41430260/software-engineer-platform-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Englewood Cliffs, NEW JERSEY, United States | Remote | Jun 26 |
-| **[Nubank](https://nubank.com.br)** | **[Staff Software Engineer - PJ (Business Customers)](https://jobr.pro/job/41430438/staff-software-engineer-pj-business-customers?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Brazil, Belo Horizonte; Brazil, Campinas; Brazil, Rio de Janeiro; Brazil, Sao Paulo | On Site | Jun 26 |
-| **[NBCUniversal](https://www.nbcunicareers.com)** | **[News Software Engineer- WordPress](https://jobr.pro/job/41430326/news-software-engineer-wordpress?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | New York, NEW YORK, United States | Remote | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 40 companies | Avg salary: 7.432438578384055e+215k  
+**Current Stats:** 50 jobs | 36% remote | 40 companies | Avg salary: 7.236848089479212e+221k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, ai  
