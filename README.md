@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[BJAK](https://bjak.my)** | **[iOS Software Engineer](https://jobr.pro/job/41457771/ios-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | United States | Remote | Jun 28 |
+| **[BJAK](https://bjak.my)** | **[Android Software Engineer](https://jobr.pro/job/41457760/android-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | United States | Remote | Jun 28 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Controls and Automation Software Engineer](https://jobr.pro/job/41454238/senior-controls-and-automation-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | El Segundo, California, United States | On Site | Jun 27 |
 | **[Varda Space Industries](https://varda.com)** | **[Controls and Automation Software Engineer](https://jobr.pro/job/41454236/controls-and-automation-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | El Segundo, California, United States | On Site | Jun 27 |
 | **[Odin Dynamics, Inc](https://odindynamics.ai)** | **[Senior Ground Software Engineer (Maritime)](https://jobr.pro/job/41455402/senior-ground-software-engineer-maritime?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Los Angeles | On Site | Jun 27 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Okta](https://www.okta.com)** | **[Principal Software Engineer (Auth0)](https://jobr.pro/job/41433180/principal-software-engineer-auth0?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | On Site | Jun 26 |
 | **[RR Donnelley](https://www.rrd.com)** | **[IL0220-Staff Software Engineer I](https://jobr.pro/job/41431410/il0220-staff-software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Warrenville, IL, United States | On Site | Jun 26 |
 | **[CoVar](https://live-covar.pantheonsite.io)** | **[Software Engineer](https://jobr.pro/job/41431677/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Durham, NC | On Site | Jun 26 |
-| **[Toshiba Global Commerce Solutions - External](https://commerce.toshiba.com)** | **[Software Test Engineer III](https://jobr.pro/job/41432608/software-test-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Frisco, TX | On Site | Jun 26 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Embedded Software Engineer](https://jobr.pro/job/41435717/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Lexington, Massachusetts, United States | On Site | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 38 companies | Avg salary: 4.842110000006052e+221k  
+**Current Stats:** 50 jobs | 38% remote | 38 companies | Avg salary: 4.972977837844054e+215k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, ai  
