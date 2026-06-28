@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -15,6 +15,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Controls and Automation Software Engineer](https://jobr.pro/job/41454238/senior-controls-and-automation-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | El Segundo, California, United States | On Site | Jun 27 |
 | **[Varda Space Industries](https://varda.com)** | **[Controls and Automation Software Engineer](https://jobr.pro/job/41454236/controls-and-automation-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | El Segundo, California, United States | On Site | Jun 27 |
+| **[Odin Dynamics, Inc](https://odindynamics.ai)** | **[Senior Ground Software Engineer (Maritime)](https://jobr.pro/job/41455402/senior-ground-software-engineer-maritime?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Los Angeles | On Site | Jun 27 |
+| **[Odin Dynamics, Inc](https://odindynamics.ai)** | **[Senior Autonomy Software Engineer (Maritime)](https://jobr.pro/job/41455401/senior-autonomy-software-engineer-maritime?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Los Angeles | On Site | Jun 27 |
 | **[Pillar Space](https://www.pillarspace.com)** | **[Founding Lead Avionics & Software Engineer](https://jobr.pro/job/41443443/founding-lead-avionics-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Los Angeles, CA | Remote | Jun 27 |
 | **[Twitch](https://www.twitch.tv)** | **[Senior Software Engineer, Ads](https://jobr.pro/job/41440783/senior-software-engineer-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Seattle, WA | On Site | Jun 27 |
 | **[Commure](https://www.commure.com)** | **[Senior Software Engineer, R&D](https://jobr.pro/job/41449015/senior-software-engineer-rd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Mountain View, CA | Remote | Jun 27 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CoVar](https://live-covar.pantheonsite.io)** | **[Software Engineer](https://jobr.pro/job/41431677/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Durham, NC | On Site | Jun 26 |
 | **[Toshiba Global Commerce Solutions - External](https://commerce.toshiba.com)** | **[Software Test Engineer III](https://jobr.pro/job/41432608/software-test-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Frisco, TX | On Site | Jun 26 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Embedded Software Engineer](https://jobr.pro/job/41435717/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Lexington, Massachusetts, United States | On Site | Jun 26 |
-| **[Thumbtack](https://thumbtack.com)** | **[Sr. Software Engineer, Platform](https://jobr.pro/job/41438911/sr-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Remote, Ontario | Remote | Jun 26 |
-| **[Cognitiv](https://www.cognitiv.ai)** | **[Senior Software Engineer, Backend](https://jobr.pro/job/41431662/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Bellevue, WA | On Site | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 40 companies | Avg salary: 4.842112500005984e+221k  
+**Current Stats:** 50 jobs | 34% remote | 38 companies | Avg salary: 4.842110000006052e+221k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, ai  
