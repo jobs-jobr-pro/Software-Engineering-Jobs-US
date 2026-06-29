@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United States — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United States** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[OpenAI](https://openai.com)** | **[Founding Full Stack Software Engineer, Legal](https://jobr.pro/job/41464960/founding-full-stack-software-engineer-legal?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco | On Site | Jun 29 |
 | **[BJAK](https://bjak.my)** | **[iOS Software Engineer](https://jobr.pro/job/41457771/ios-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | United States | Remote | Jun 28 |
 | **[BJAK](https://bjak.my)** | **[Android Software Engineer](https://jobr.pro/job/41457760/android-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | United States | Remote | Jun 28 |
 | **[Quadrillion](https://quadrillion.io)** | **[Software Engineering Intern](https://jobr.pro/job/41458516/software-engineering-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | New York City | On Site | Jun 28 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Attentive](https://attentive.com)** | **[Staff Software Engineer, Cloud FinOps](https://jobr.pro/job/41432972/staff-software-engineer-cloud-finops?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | United States | On Site | Jun 26 |
 | **[Notion](https://notion.com)** | **[Software Engineer, Data Product Platform](https://jobr.pro/job/41438453/software-engineer-data-product-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | San Francisco, California | On Site | Jun 26 |
 | **[Okta](https://www.okta.com)** | **[Principal Software Engineer (Auth0)](https://jobr.pro/job/41433180/principal-software-engineer-auth0?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | On Site | Jun 26 |
-| **[RR Donnelley](https://www.rrd.com)** | **[IL0220-Staff Software Engineer I](https://jobr.pro/job/41431410/il0220-staff-software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-us)** | Warrenville, IL, United States | On Site | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 38 companies | Avg salary: 1.5789522105310525e+221k  
+**Current Stats:** 50 jobs | 38% remote | 38 companies | Avg salary: 8.552647368469474e+220k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, ai  
